@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/reubenremy/pg_promise/issues"
   },
-  "homepage": "https://github.com/reubenremy/pg_promise#readme"
+  "homepage": "https://github.com/reubenremy/pg_promise#readme",
+  "dependencies": {
+    "pg-promise": "^10.3.1"
+  }
 }
