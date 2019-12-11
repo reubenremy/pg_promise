@@ -1,0 +1,19 @@
+{
+  "name": "pg_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reubenremy/pg_promise.git"
+  },
+  "author": "Reuben Remy reubenremy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reubenremy/pg_promise/issues"
+  },
+  "homepage": "https://github.com/reubenremy/pg_promise#readme"
+}
